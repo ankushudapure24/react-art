@@ -12,7 +12,7 @@ export default function Header() {
       />
       <h1 className="text-xl font-semibold tracking-widest text-center md:text-4xl uppercase text-amber-800 font-title">
         ReactArt</h1>
-      <p className="text-stone-500">A community of sports lovers.</p>
+      <p className="text-stone-500">A community of Songs lovers.</p>
     </header>
   );
 }
